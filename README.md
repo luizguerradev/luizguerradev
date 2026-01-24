@@ -12,35 +12,57 @@ Atuo há mais de 4 anos em ambientes corporativos, lidando com sistemas de alta 
 - Boas práticas e organização de código
 
 ## 🧩 Projeto em destaque
+#
 🔹 **QENEM — Sistema Web Educacional (Backend Java)**  COLABORAÇÃO FACULDADE.
 
-Sistema web educacional gamificado, desenvolvido com o objetivo de auxiliar estudantes na preparação para o ENEM, oferecendo funcionalidades como gerenciamento de usuários, questões, listas e simulados.
+📚 Projeto acadêmico colaborativo
+
+O **QENEM** é um sistema web educacional gamificado, desenvolvido com o objetivo de auxiliar estudantes na preparação para o **ENEM**, oferecendo recursos para organização dos estudos, prática por meio de questões e simulados, além do acompanhamento da evolução do aluno.
+
+O projeto foi desenvolvido de forma colaborativa no contexto acadêmico, simulando um ambiente real de desenvolvimento de software.
+
+---
 
 #### 🎯 Objetivo do Projeto
-Criar uma aplicação web educacional com foco em organização de estudos, gamificação e experiência do usuário, utilizando arquitetura backend bem estruturada e integração com banco de dados.
+Desenvolver uma aplicação web educacional com foco em:
+- Organização de estudos
+- Gamificação como estímulo ao aprendizado
+- Estruturação de regras de negócio
+- Arquitetura backend clara e escalável
+- Integração eficiente com banco de dados relacional
+
+---
 
 #### 🛠️ Tecnologias Utilizadas
-- Java
+- .NET (C#)
 - APIs REST
 - Banco de Dados Relacional (SQL)
 - Git e GitHub
 - JSON
 
-#### 👨‍💻 Minha Atuação no Projeto
-Atuei como colaborador no desenvolvimento do backend da aplicação, com foco em:
+---
 
-- Implementação e organização de **regras de negócio**
-- Apoio na construção e manutenção de **APIs REST**
+#### 👨‍💻 Minha Atuação no Projeto
+Atuei como colaborador no desenvolvimento do backend da aplicação, participando ativamente das seguintes atividades:
+
+- Implementação e organização de regras de negócio
+- Apoio na construção e manutenção de APIs REST
 - Integração com banco de dados relacional (operações de CRUD)
 - Estruturação da lógica da aplicação backend
-- Versionamento de código e trabalho colaborativo via Git/GitHub
+- Versionamento de código e trabalho colaborativo utilizando Git e GitHub
 
-#### 📌 Aprendizados
+Essa experiência proporcionou contato direto com um backend funcional, semelhante a cenários encontrados em ambientes profissionais.
+
+---
+
+#### 📌 Principais Aprendizados
 - Organização de código backend em camadas
-- Construção de APIs e fluxo de dados
-- Integração entre backend e banco de dados
-- Trabalho em equipe utilizando versionamento de código
-- Visão prática de um sistema web completo
+- Construção de APIs e gerenciamento de fluxo de dados
+- Integração entre backend e banco de dados relacional
+- Trabalho colaborativo com controle de versão
+- Visão prática do ciclo de desenvolvimento de um sistema web completo
+
+---
 
 #### 🔗 Repositório
 https://github.com/VitorBanuhart/QENEM
