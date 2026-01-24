@@ -16,17 +16,17 @@ Atuo há mais de 4 anos em ambientes corporativos, lidando com sistemas de alta 
 
 Sistema web educacional gamificado, desenvolvido com o objetivo de auxiliar estudantes na preparação para o ENEM, oferecendo funcionalidades como gerenciamento de usuários, questões, listas e simulados.
 
-## 🎯 Objetivo do Projeto
+#### 🎯 Objetivo do Projeto
 Criar uma aplicação web educacional com foco em organização de estudos, gamificação e experiência do usuário, utilizando arquitetura backend bem estruturada e integração com banco de dados.
 
-## 🛠️ Tecnologias Utilizadas
+#### 🛠️ Tecnologias Utilizadas
 - Java
 - APIs REST
 - Banco de Dados Relacional (SQL)
 - Git e GitHub
 - JSON
 
-## 👨‍💻 Minha Atuação no Projeto
+#### 👨‍💻 Minha Atuação no Projeto
 Atuei como colaborador no desenvolvimento do backend da aplicação, com foco em:
 
 - Implementação e organização de **regras de negócio**
@@ -35,16 +35,16 @@ Atuei como colaborador no desenvolvimento do backend da aplicação, com foco em
 - Estruturação da lógica da aplicação backend
 - Versionamento de código e trabalho colaborativo via Git/GitHub
 
-## 📌 Aprendizados
+#### 📌 Aprendizados
 - Organização de código backend em camadas
 - Construção de APIs e fluxo de dados
 - Integração entre backend e banco de dados
 - Trabalho em equipe utilizando versionamento de código
 - Visão prática de um sistema web completo
 
-## 🔗 Repositório
+#### 🔗 Repositório
 https://github.com/VitorBanuhart/QENEM
-
+#
 
 ## 📚 Formação
 - Análise e Desenvolvimento de Sistemas — Uniftec (em andamento)
