@@ -73,7 +73,7 @@ https://github.com/VitorBanuhart/QENEM
 
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/luiz-guerra  
-- E-mail: luizhc.guerra@gmail.com
+- E-mail: luizguerra.dev@gmail.com
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=luizguerradev&&show_icons=true&theme=radical&bg_color=0,fdb927,552583&title_color=000000&text_color=000000&icon_color=000000)
 
