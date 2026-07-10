@@ -1,5 +1,56 @@
 # Luiz Henrique Cruz Guerra
 
+**Java Backend Developer | API Design & Database Optimization**
+
+Results-driven Java Backend Developer transitioning from over 5 years of solid experience in high-availability corporate systems, technical troubleshooting, and production incident analysis. 
+
+Having managed complex Linux environments and relational databases (SQL) for critical ERPs, I bring a unique operational perspective to software engineering. I specialize in building robust RESTful APIs, structuring complex business rules, and ensuring resilient, bug-free backend architectures.
+
+## 🚀 Current Focus & Tech Stack
+- **Languages & Frameworks:** Java, RESTful APIs, OOP
+- **Databases:** PostgreSQL, MySQL, Complex SQL Queries, Data Modeling
+- **Infrastructure & Tools:** Linux Server Administration, Git, GitHub
+- **Core Competencies:** Backend Architecture, Root-Cause Analysis, Production Troubleshooting
+
+## 🧩 Featured Project
+#
+🔹 **QENEM — Gamified Educational Web System**
+
+*Academic Collaborative Project*
+
+QENEM is an educational platform designed to help students prepare for national exams through gamified study organization, practice tests, and performance tracking. The project simulates a real-world software development lifecycle and collaborative environment.
+
+#### 👨‍💻 My Role & Technical Contributions
+I acted as a core contributor to the backend architecture, actively involved in:
+- Implementing complex business rules and backend application logic.
+- Building and maintaining scalable REST APIs for seamless frontend integration.
+- Managing relational database operations (CRUD) and ensuring data integrity.
+- Utilizing Git and GitHub for code versioning and collaborative workflows.
+
+**Tech Stack Used:** Java, REST APIs, Relational Database (SQL), JSON, Git/GitHub.
+
+#### 🔗 Repository
+[View the QENEM Backend Architecture](https://github.com/VitorBanuhart/QENEM)
+#
+
+## 📚 Education
+- **Associate's Degree, Systems Analysis and Development** — Uniftec (Expected 2026)
+
+## 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/luiz-guerra](https://www.linkedin.com/in/luiz-guerra)
+- **E-mail:** luizguerra.dev@gmail.com
+
+---
+![github stats](https://github-readme-stats.vercel.app/api?username=luizguerradev&show_icons=true&theme=radical&bg_color=0,fdb927,552583&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+
+
+---
+<br>
+
+## 🇧🇷 Versão em Português
+
+# Luiz Henrique Cruz Guerra
+
 Desenvolvedor Backend Java Júnior, em transição estruturada a partir de uma base sólida em sistemas críticos, banco de dados SQL e análise de incidentes em produção.
 
 Atuo há mais de 4 anos em ambientes corporativos, lidando com sistemas de alta disponibilidade, investigação de causa raiz e impacto direto no negócio. Atualmente aplico esses conhecimentos no desenvolvimento backend com Java, APIs REST e integração com banco de dados.
