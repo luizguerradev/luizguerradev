@@ -1,133 +1,98 @@
-# Luiz Henrique Cruz Guerra
+# Hi, I'm Luiz Guerra 👋
 
-**Java Backend Developer | API Design & Database Optimization**
+**Backend Developer (Java) · APIs & SQL · Porto Alegre, Brazil**
 
-Results-driven Java Backend Developer transitioning from over 5 years of solid experience in high-availability corporate systems, technical troubleshooting, and production incident analysis. 
+I'm moving into software development after 4+ years working with high-availability corporate systems: Linux servers, relational databases behind critical ERPs, and root-cause analysis of production incidents. That background shapes how I build backends: reliable, easy to debug, and aware of what happens when things break in production.
 
-Having managed complex Linux environments and relational databases (SQL) for critical ERPs, I bring a unique operational perspective to software engineering. I specialize in building robust RESTful APIs, structuring complex business rules, and ensuring resilient, bug-free backend architectures.
+---
 
-## 🚀 Current Focus & Tech Stack
-- **Languages & Frameworks:** Java, RESTful APIs, OOP
-- **Databases:** PostgreSQL, MySQL, Complex SQL Queries, Data Modeling
-- **Infrastructure & Tools:** Linux Server Administration, Git, GitHub
-- **Core Competencies:** Backend Architecture, Root-Cause Analysis, Production Troubleshooting
+### 🛠️ Tech Stack
 
-## 🧩 Featured Project
-#
-🔹 **QENEM — Gamified Educational Web System**
+- **Languages:** Java (main focus), TypeScript (NestJS)
+- **APIs:** REST, JSON, OpenAPI/Swagger
+- **Databases:** PostgreSQL, MySQL, SQL (complex queries, data modeling)
+- **Backend concepts:** DDD, Clean Architecture, idempotency, transactional outbox, concurrency control
+- **Tools:** Git, GitHub, Docker, Linux
 
-*Academic Collaborative Project*
+---
 
-QENEM is an educational platform designed to help students prepare for national exams through gamified study organization, practice tests, and performance tracking. The project simulates a real-world software development lifecycle and collaborative environment.
+### 🚀 Projects
 
-#### 👨‍💻 My Role & Technical Contributions
-I acted as a core contributor to the backend architecture, actively involved in:
-- Implementing complex business rules and backend application logic.
-- Building and maintaining scalable REST APIs for seamless frontend integration.
-- Managing relational database operations (CRUD) and ensuring data integrity.
-- Utilizing Git and GitHub for code versioning and collaborative workflows.
+#### [`backend-challange`](https://github.com/luizguerradev/backend-challange) — Wagering & Wallet Microservice
+*TypeScript (NestJS, Bun) · PostgreSQL · Docker*
 
-**Tech Stack Used:** Java, REST APIs, Relational Database (SQL), JSON, Git/GitHub.
+My solution to a backend technical challenge: digital wallets and bet transactions in an iGaming scenario, with wallet management, an accounting ledger, and transactions (`BET`, `WIN`, `LOSS`, `REFUND`, `ROLLBACK`).
 
-#### 🔗 Repository
-[View the QENEM Backend Architecture](https://github.com/VitorBanuhart/QENEM)
-#
+- **Domain-Driven Design & Clean Architecture**, with business rules isolated from the framework and ORM
+- **Pessimistic locking** (`SELECT FOR UPDATE`) to prevent race conditions and negative balances
+- **`Idempotency-Key` handling** to avoid duplicate processing
+- **Transactional outbox** for reliable async events (SQS via LocalStack)
+- **Immutable ledger** enforced by database triggers, plus wallet reconciliation
+- **Swagger/OpenAPI docs**, unit and e2e tests
 
-## 📚 Education
-- **Associate's Degree, Systems Analysis and Development** — Uniftec (Expected 2026)
+---
 
-## 📫 Let's Connect
+### 🎓 Education
+
+- **Associate's degree in Systems Analysis and Development** — Uniftec *(expected graduation: July 2027)*
+
+---
+
+### 📫 Let's Connect
+
 - **LinkedIn:** [linkedin.com/in/luiz-guerra](https://www.linkedin.com/in/luiz-guerra)
-- **E-mail:** luizguerra.dev@gmail.com
+- **Email:** [luizguerra.dev@gmail.com](mailto:luizguerra.dev@gmail.com)
 
 ---
-![github stats](https://github-readme-stats.vercel.app/api?username=luizguerradev&show_icons=true&theme=radical&bg_color=0,fdb927,552583&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
 
+<details>
+<summary><strong>🇧🇷 Versão em português</strong></summary>
 
----
 <br>
 
-## 🇧🇷 Versão em Português
+# Olá, eu sou o Luiz Guerra 👋
 
-# Luiz Henrique Cruz Guerra
+**Desenvolvedor Backend (Java) · APIs e SQL · Porto Alegre, Brasil**
 
-Desenvolvedor Backend Java Júnior, em transição estruturada a partir de uma base sólida em sistemas críticos, banco de dados SQL e análise de incidentes em produção.
-
-Atuo há mais de 4 anos em ambientes corporativos, lidando com sistemas de alta disponibilidade, investigação de causa raiz e impacto direto no negócio. Atualmente aplico esses conhecimentos no desenvolvimento backend com Java, APIs REST e integração com banco de dados.
-
-## 🚀 Foco atual
-- Desenvolvimento Backend com Java
-- APIs REST e regras de negócio
-- Integração com banco de dados SQL
-- Versionamento com Git e GitHub
-- Boas práticas e organização de código
-
-## 🧩 Projeto em destaque
-#
-🔹 **QENEM — Sistema Web Educacional (Backend Java)**  COLABORAÇÃO FACULDADE.
-
-📚 Projeto acadêmico colaborativo
-
-O **QENEM** é um sistema web educacional gamificado, desenvolvido com o objetivo de auxiliar estudantes na preparação para o **ENEM**, oferecendo recursos para organização dos estudos, prática por meio de questões e simulados, além do acompanhamento da evolução do aluno.
-
-O projeto foi desenvolvido de forma colaborativa no contexto acadêmico, simulando um ambiente real de desenvolvimento de software.
+Estou em transição para o desenvolvimento de software depois de mais de 4 anos em sistemas corporativos de alta disponibilidade: servidores Linux, bancos relacionais de ERPs críticos e análise de causa raiz de incidentes em produção. Essa bagagem define como eu desenvolvo backends: confiáveis, fáceis de depurar e pensados para o que acontece quando algo falha em produção.
 
 ---
 
-#### 🎯 Objetivo do Projeto
-Desenvolver uma aplicação web educacional com foco em:
-- Organização de estudos
-- Gamificação como estímulo ao aprendizado
-- Estruturação de regras de negócio
-- Arquitetura backend clara e escalável
-- Integração eficiente com banco de dados relacional
+### 🛠️ Stack
+
+- **Linguagens:** Java (foco principal), TypeScript (NestJS)
+- **APIs:** REST, JSON, OpenAPI/Swagger
+- **Bancos de dados:** PostgreSQL, MySQL, SQL (consultas complexas, modelagem de dados)
+- **Conceitos de backend:** DDD, Clean Architecture, idempotência, transactional outbox, controle de concorrência
+- **Ferramentas:** Git, GitHub, Docker, Linux
 
 ---
 
-#### 🛠️ Tecnologias Utilizadas
-- .NET (C#)
-- APIs REST
-- Banco de Dados Relacional (SQL)
-- Git e GitHub
-- JSON
+### 🚀 Projetos
+
+#### [`backend-challange`](https://github.com/luizguerradev/backend-challange) — Microserviço de Carteira e Apostas
+*TypeScript (NestJS, Bun) · PostgreSQL · Docker*
+
+Minha solução para um desafio técnico de backend: carteiras digitais e transações de apostas em cenário de iGaming, com gestão de carteiras, extrato contábil (ledger) e transações (`BET`, `WIN`, `LOSS`, `REFUND`, `ROLLBACK`).
+
+- **DDD e Clean Architecture**, com regras de negócio isoladas do framework e do ORM
+- **Lock pessimista** (`SELECT FOR UPDATE`) contra condições de corrida e saldo negativo
+- **`Idempotency-Key`** para evitar processamento duplicado
+- **Transactional outbox** para eventos assíncronos confiáveis (SQS via LocalStack)
+- **Ledger imutável** garantido por triggers no banco, mais reconciliação de carteira
+- **Documentação Swagger/OpenAPI**, testes unitários e e2e
 
 ---
 
-#### 👨‍💻 Minha Atuação no Projeto
-Atuei como colaborador no desenvolvimento do backend da aplicação, participando ativamente das seguintes atividades:
+### 🎓 Formação
 
-- Implementação e organização de regras de negócio
-- Apoio na construção e manutenção de APIs REST
-- Integração com banco de dados relacional (operações de CRUD)
-- Estruturação da lógica da aplicação backend
-- Versionamento de código e trabalho colaborativo utilizando Git e GitHub
-
-Essa experiência proporcionou contato direto com um backend funcional, semelhante a cenários encontrados em ambientes profissionais.
+- **Análise e Desenvolvimento de Sistemas** — Uniftec *(conclusão prevista: julho de 2027)*
 
 ---
 
-#### 📌 Principais Aprendizados
-- Organização de código backend em camadas
-- Construção de APIs e gerenciamento de fluxo de dados
-- Integração entre backend e banco de dados relacional
-- Trabalho colaborativo com controle de versão
-- Visão prática do ciclo de desenvolvimento de um sistema web completo
+### 📫 Contato
 
----
+- **LinkedIn:** [linkedin.com/in/luiz-guerra](https://www.linkedin.com/in/luiz-guerra)
+- **E-mail:** [luizhc.guerra@gmail.com](mailto:luizhc.guerra@gmail.com)
 
-#### 🔗 Repositório
-https://github.com/VitorBanuhart/QENEM
-#
-
-## 📚 Formação
-- Análise e Desenvolvimento de Sistemas — Uniftec (em andamento)
-
-## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/luiz-guerra  
-- E-mail: luizguerra.dev@gmail.com
-
-![github stats](https://github-readme-stats.vercel.app/api?username=luizguerradev&&show_icons=true&theme=radical&bg_color=0,fdb927,552583&title_color=000000&text_color=000000&icon_color=000000)
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizguerradev&layout=compact&theme=radical&bg_color=0,fdb927,552583&title_color=000000&text_color=000000&icon_color=000000)](https://github.com/luizguerradev/github-readme-stats)
--->
+</details>
