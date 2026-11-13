@@ -94,7 +94,7 @@ My solution to a backend technical challenge: digital wallets and bet transactio
 ### 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/luiz-guerra](https://www.linkedin.com/in/luiz-guerra)
-- **Email:** [luizguerra.dev@gmail.com](mailto:luizguerra.dev@gmail.com)
+- **Email:** [luizhc.guerra@gmail.com](mailto:luizhc.guerra@gmail.com)
 
 ---
 
