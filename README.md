@@ -2,49 +2,6 @@
 
 **Backend Developer (Java) · APIs & SQL · Porto Alegre, Brazil**
 
-I'm moving into software development after 4+ years working with high-availability corporate systems: Linux servers, relational databases behind critical ERPs, and root-cause analysis of production incidents. That background shapes how I build backends: reliable, easy to debug, and aware of what happens when things break in production.
-
----
-
-### 🛠️ Tech Stack
-
-- **Languages:** Java (main focus), TypeScript (NestJS)
-- **APIs:** REST, JSON, OpenAPI/Swagger
-- **Databases:** PostgreSQL, MySQL, SQL (complex queries, data modeling)
-- **Backend concepts:** DDD, Clean Architecture, idempotency, transactional outbox, concurrency control
-- **Tools:** Git, GitHub, Docker, Linux
-
----
-
-### 🚀 Projects
-
-#### [`backend-challange`](https://github.com/luizguerradev/backend-challange) — Wagering & Wallet Microservice
-*TypeScript (NestJS, Bun) · PostgreSQL · Docker*
-
-My solution to a backend technical challenge: digital wallets and bet transactions in an iGaming scenario, with wallet management, an accounting ledger, and transactions (`BET`, `WIN`, `LOSS`, `REFUND`, `ROLLBACK`).
-
-- **Domain-Driven Design & Clean Architecture**, with business rules isolated from the framework and ORM
-- **Pessimistic locking** (`SELECT FOR UPDATE`) to prevent race conditions and negative balances
-- **`Idempotency-Key` handling** to avoid duplicate processing
-- **Transactional outbox** for reliable async events (SQS via LocalStack)
-- **Immutable ledger** enforced by database triggers, plus wallet reconciliation
-- **Swagger/OpenAPI docs**, unit and e2e tests
-
----
-
-### 🎓 Education
-
-- **Associate's degree in Systems Analysis and Development** — Uniftec *(expected graduation: July 2027)*
-
----
-
-### 📫 Let's Connect
-
-- **LinkedIn:** [linkedin.com/in/luiz-guerra](https://www.linkedin.com/in/luiz-guerra)
-- **Email:** [luizguerra.dev@gmail.com](mailto:luizguerra.dev@gmail.com)
-
----
-
 <details>
 <summary><strong>🇧🇷 Versão em português</strong></summary>
 
@@ -96,3 +53,48 @@ Minha solução para um desafio técnico de backend: carteiras digitais e transa
 - **E-mail:** [luizhc.guerra@gmail.com](mailto:luizhc.guerra@gmail.com)
 
 </details>
+
+
+I'm moving into software development after 4+ years working with high-availability corporate systems: Linux servers, relational databases behind critical ERPs, and root-cause analysis of production incidents. That background shapes how I build backends: reliable, easy to debug, and aware of what happens when things break in production.
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** Java (main focus), TypeScript (NestJS)
+- **APIs:** REST, JSON, OpenAPI/Swagger
+- **Databases:** PostgreSQL, MySQL, SQL (complex queries, data modeling)
+- **Backend concepts:** DDD, Clean Architecture, idempotency, transactional outbox, concurrency control
+- **Tools:** Git, GitHub, Docker, Linux
+
+---
+
+### 🚀 Projects
+
+#### [`backend-challange`](https://github.com/luizguerradev/backend-challange) — Wagering & Wallet Microservice
+*TypeScript (NestJS, Bun) · PostgreSQL · Docker*
+
+My solution to a backend technical challenge: digital wallets and bet transactions in an iGaming scenario, with wallet management, an accounting ledger, and transactions (`BET`, `WIN`, `LOSS`, `REFUND`, `ROLLBACK`).
+
+- **Domain-Driven Design & Clean Architecture**, with business rules isolated from the framework and ORM
+- **Pessimistic locking** (`SELECT FOR UPDATE`) to prevent race conditions and negative balances
+- **`Idempotency-Key` handling** to avoid duplicate processing
+- **Transactional outbox** for reliable async events (SQS via LocalStack)
+- **Immutable ledger** enforced by database triggers, plus wallet reconciliation
+- **Swagger/OpenAPI docs**, unit and e2e tests
+
+---
+
+### 🎓 Education
+
+- **Associate's degree in Systems Analysis and Development** — Uniftec *(expected graduation: July 2027)*
+
+---
+
+### 📫 Let's Connect
+
+- **LinkedIn:** [linkedin.com/in/luiz-guerra](https://www.linkedin.com/in/luiz-guerra)
+- **Email:** [luizguerra.dev@gmail.com](mailto:luizguerra.dev@gmail.com)
+
+---
+
